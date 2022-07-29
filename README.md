@@ -19,10 +19,10 @@ Two months were selected June and December as milestones that could show the hig
 As shown in the following Images, June Temperatures and December Temperatures were obtained in the final analysis. 
 
 June Temperatures mean was around 75 ℉ (74.944 ℉), with minimum readings of 64.00 and max of 85.00; reported standard deviation was 3.257. 
-![]()
+![JuneTemp](Resources/JuneTempSummary.png)
 
 December Temperatures mean was around 71 ℉ (71.0415), with min readings of 56,00 and max of 83.00 and a standard deviation of 3.746. 
-![]()
+![DecTemp](Resources/DecTempSummary.png)
 
 ### Key differences in weather between June and December:
 
@@ -41,8 +41,8 @@ To know if this numbers are statistically significant, further mean and variance
 
 To have a sharper understanding of weather behaviour, two more queries are recommended covering the 2 missing seasons representative months and weather precipitation. As definition weather precipitation includes all forms of water falling out of the sky, be it rain drizzle, snow, sleet, or hail. Rain, the most common would be considered to have a big impact on good weather out door related business as surfing and ice cream. 
 The results of this queries are seen below.  
- ![]()
-![]()
+ ![JunePrecipitation](Resources/JunePrecipitation.png)
+![DecPrecipitation](Resources/DecPrecipitation.png)
 
 -There seem to be more precipitation in December (0.2) than June (0.1), Max levels of precipitation seem to be also higher on December (6.4) than June (4.3)
 
